@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Oleksii Holodniak</h1>
+<h1 align="left">Hi 👋, I'm Oleksii</h1>
 <h3 align="left">A passionate frontend developer from Ukraine</h3>
 <div align="left">
     <a href="mailto:holodniakwork@gmail.com" target="_blank" rel="noreferrer">
